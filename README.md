@@ -1,18 +1,28 @@
 
-<h1 align="center">Hi 👋, I'm Roewyn</h1>
-I am Roewyn Umayam, I am a recent MIS graduate from the University of Washington Bothell. Originally a more project-management focused student, I fell in love with building web applications from project work I was involved in. Since then, I've made the switch to pursue a career in web development with a big interest in working on scalable design systems. I'm always open to new opportunities to grow my skills and help build something awesome 😎
+<h1 align="center">Hi 👋, I'm Roewyn Umayam</h1>
+<h3 align="center">Frontend Developer, Writer, Martial Artist, and Certified Clown near Seattle.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umayarz18&label=Profile%20views&color=0e75b6&style=flat" alt="umayarz18" /> </p>
 
-## Bit About Me 
-- 🔭 I’m currently working on <strong>Web and Mobile Apps @<a href="https://workingforwealth.org">Working for Wealth</a> </strong>
-- 🌱 I’m currently learning <strong>React Native, Sanity CMS, Design and Storybook </strong>
-- 👯 I’m looking to collaborate on <strong>Design Systems or UI development of Web Application Projects </strong>
-- 🤔 I’m looking for help with <strong>Jamstack, accessibility and React based web applications</strong>
-- 💬 Ask me about <strong>Designing components + creating accessible UI components</strong>
-- 📫 How to reach me: shoot me an email at  <a href="mailto:roewyn.e.umayam@gmail.com">roewyn.e.umayam@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/roewyn-umayam/">Linkedin</a> 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love teaching/practicing Taekwondo 🥋, spending time with family 👪, all things comic books 🤓, and exercising 🏋🏾.
-- 🥅 2022 Goals: Better my knowledge on making a more accessible and inclusive web!
+<p align="left"> <a href="https://twitter.com/roewynu" target="blank"><img src="https://img.shields.io/twitter/follow/roewynu?logo=twitter&style=for-the-badge" alt="roewynu" /></a> </p>
+
+- 🔭 I’m currently working on [Web and Mobile Apps @Sprout Learning](https://sproutlearning.us)
+
+- 🌱 I’m currently learning **Storybook, Jamstack sites, Accessibility, Open Source, Design Systems, and Machine Learning.**
+
+- 👯 I’m looking to collaborate on [Coffeeclass.io](https://cofeeclass.io)
+
+- 👨‍💻 All of my projects are available at [https://roewynumayam.com](https://roewynumayam.com)
+
+- 📝 I regularly write articles on [https://roewynumayam.com](https://roewynumayam.com)
+
+- 💬 Ask me about **React, Next.js, TailwindCSS, Sanity.io, and Jamstack technologies**
+
+- 📫 How to reach me **roewyn.e.umayam@gmail.com**
+
+- ⚡ Fun fact **I love teaching/practicing Taekwondo 🥋, spending time with family 👪, all things comic books 🤓, and exercising 🏋🏾**
+
+- 🥅 2022 Goals: Break into Developer Advocacy and help educate the tech community about Jamstack, design systems, and web accessibility!
 
 ## Some Of My Projects
 <ul>
@@ -145,59 +155,36 @@ I am Roewyn Umayam, I am a recent MIS graduate from the University of Washington
       turn basic web apps into PWAs. Made with React, vanilla CSS, and
       deployed on Netlify. <em>[solo project Mar 2021]</em>
     </li>
-</ul>
+</ul> 
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Connect with me:
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</span>
+<p align="left">
+<a href="https://twitter.com/roewynu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roewynu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roewyn-umayam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roewyn-umayam" height="30" width="40" /></a>
+<a href="https://fb.com/roewynzackumayam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roewynzackumayam" height="30" width="40" /></a>
+<a href="https://instagram.com/roewynaboat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roewynaboat" height="30" width="40" /></a>
+</p>
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</span>
+## Languages and Tools:
+<p align="left" width="100%"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://storybook.js.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61628982/150425758-6fecf2c4-943c-4349-9e39-7278a28be6cf.png" alt="storybook" width="40" height="40"/><a>
+<a href="https://sanity.io" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61628982/150426349-95fae764-821a-4b49-9d3a-b5260db742de.png" alt="sanity.io" width="40" height="40"/><a>
+</p>
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-</span>
+## Support:
+<p><a href="https://www.buymeacoffee.com/roewynumayam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roewynumayam" /></a></p><br><br>
 
+## My Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umayarz18&show_icons=true&count_private=true&locale=en&layout=compact" alt="umayarz18" /></p>
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
-  <img src="https://img.shields.io/badge/Sanity-FF2D20?style=for-the-badge&logo=sanity&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-</span>
-    
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umayarz18&show_icons=true&locale=en" alt="umayarz18" /></p>
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="https://www.linkedin.com/in/roewyn-umayam/" target="blank"><img align="center"  color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="My linkedin profile" height="30" width="40" /></a>
-<a href="https://instagram.com/roewynaboat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My instagram link" height="30" width="40" /></a>
-<a href="https://github.com/Umayarz18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Umayarz18 github profile" height="30" width="40" /></a>
-    
-<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umayarz18&" alt="umayarz18" /></p>
 
 
------
-Credits: Template From [Hridoy Hazard](https://github.com/HridoyHazard)
 
-Last Edited on: 12/24/2021
+
+Last Edited on: 01/20/2022
+
+Made With: Rahul Jain's [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
