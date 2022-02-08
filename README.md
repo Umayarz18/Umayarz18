@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Storybook, Jamstack sites, Accessibility, Open Source, Design Systems, and Machine Learning.**
 
-- 👯 I’m looking to collaborate on [Coffeeclass.io](https://cofeeclass.io)
+- 👯 I’m looking to collaborate on [Coffeeclass.io](https://coffeeclass.io)
 
 - 👨‍💻 All of my projects are available at [https://roewynumayam.com](https://roewynumayam.com)
 
@@ -53,6 +53,6 @@
 
 
 
-Last Edited on: 02/01/2022
+Last Edited on: 02/07/2022
 
 Made With: Rahul Jain's [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
