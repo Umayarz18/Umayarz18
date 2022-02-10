@@ -43,11 +43,23 @@
 ## Support:
 <p><a href="https://www.buymeacoffee.com/roewynumayam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roewynumayam" /></a></p><br><br>
 
-## My Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umayarz18&show_icons=true&count_private=true&locale=en&layout=compact" alt="umayarz18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umayarz18&show_icons=true&locale=en" alt="umayarz18" /></p>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umayarz18&show_icons=true&count_private=true&locale=en&layout=compact" alt="umayarz18" /></p>
+
+<   p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umayarz18&show_icons=true&locale=en" alt="umayarz18" /></p>
+
+</details>
 
 
 
