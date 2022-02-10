@@ -40,11 +40,6 @@
 <a href="https://sanity.io" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/61628982/150426349-95fae764-821a-4b49-9d3a-b5260db742de.png" alt="sanity.io" width="40" height="40"/><a>
 </p>
 
-## Support:
-<p><a href="https://www.buymeacoffee.com/roewynumayam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roewynumayam" /></a></p><br><br>
-
-
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -53,18 +48,20 @@
 
 </details>
 
+  
 <details>
   <summary>:zap: GitHub Stats</summary>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umayarz18&show_icons=true&count_private=true&locale=en&layout=compact" alt="umayarz18" /></p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umayarz18&show_icons=true&count_private=true&locale=en&layout=compact" alt="umayarz18" 
 
-<   p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umayarz18&show_icons=true&locale=en" alt="umayarz18" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umayarz18&show_icons=true&locale=en" alt="umayarz18" />
 
 </details>
 
 
+## Support:
+<p><a href="https://www.buymeacoffee.com/roewynumayam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roewynumayam" /></a></p>
 
 
-
-Last Edited on: 02/07/2022
+Last Edited on: 02/10/2022
 
 Made With: Rahul Jain's [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
