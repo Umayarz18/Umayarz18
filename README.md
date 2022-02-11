@@ -44,11 +44,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/carlson-technologies/coffeeclass.io/issues/79) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
-2. 🗣 Commented on [#77](https://github.com/carlson-technologies/coffeeclass.io/issues/77) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
-3. 🗣 Commented on [#522](https://github.com/EddieHubCommunity/LinkFree/issues/522) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#79](https://github.com/carlson-technologies/coffeeclass.io/issues/79) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
-5. 🗣 Commented on [#77](https://github.com/carlson-technologies/coffeeclass.io/issues/77) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
+1. ❌ Closed PR [#79](https://github.com/carlson-technologies/coffeeclass.io/pull/79) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
+2. 🗣 Commented on [#79](https://github.com/carlson-technologies/coffeeclass.io/issues/79) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
+3. 🗣 Commented on [#79](https://github.com/carlson-technologies/coffeeclass.io/issues/79) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
+4. 🗣 Commented on [#77](https://github.com/carlson-technologies/coffeeclass.io/issues/77) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
+5. 🗣 Commented on [#522](https://github.com/EddieHubCommunity/LinkFree/issues/522) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 </details>
