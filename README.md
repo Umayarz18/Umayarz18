@@ -44,11 +44,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#79](https://github.com/carlson-technologies/coffeeclass.io/pull/79) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
-2. 🗣 Commented on [#79](https://github.com/carlson-technologies/coffeeclass.io/issues/79) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
-3. 🗣 Commented on [#79](https://github.com/carlson-technologies/coffeeclass.io/issues/79) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
-4. 🗣 Commented on [#77](https://github.com/carlson-technologies/coffeeclass.io/issues/77) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
-5. 🗣 Commented on [#522](https://github.com/EddieHubCommunity/LinkFree/issues/522) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#751](https://github.com/blitz-js/blitz/issues/751) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+2. 💪 Opened PR [#81](https://github.com/carlson-technologies/coffeeclass.io/pull/81) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
+3. ❌ Closed PR [#1](https://github.com/Umayarz18/coffeeclass.io/pull/1) in [Umayarz18/coffeeclass.io](https://github.com/Umayarz18/coffeeclass.io)
+4. 💪 Opened PR [#1](https://github.com/Umayarz18/coffeeclass.io/pull/1) in [Umayarz18/coffeeclass.io](https://github.com/Umayarz18/coffeeclass.io)
+5. 🎉 Merged PR [#6](https://github.com/Umayarz18/portfolio/pull/6) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
 <!--END_SECTION:activity-->
 
 </details>
