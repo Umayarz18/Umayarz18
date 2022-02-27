@@ -44,11 +44,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#751](https://github.com/blitz-js/blitz/issues/751) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
-2. 💪 Opened PR [#81](https://github.com/carlson-technologies/coffeeclass.io/pull/81) in [carlson-technologies/coffeeclass.io](https://github.com/carlson-technologies/coffeeclass.io)
-3. ❌ Closed PR [#1](https://github.com/Umayarz18/coffeeclass.io/pull/1) in [Umayarz18/coffeeclass.io](https://github.com/Umayarz18/coffeeclass.io)
-4. 💪 Opened PR [#1](https://github.com/Umayarz18/coffeeclass.io/pull/1) in [Umayarz18/coffeeclass.io](https://github.com/Umayarz18/coffeeclass.io)
-5. 🎉 Merged PR [#6](https://github.com/Umayarz18/portfolio/pull/6) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
+1. 🗣 Commented on [#20](https://github.com/Kira272921/vscode-themed-portfolio/issues/20) in [Kira272921/vscode-themed-portfolio](https://github.com/Kira272921/vscode-themed-portfolio)
+2. 🗣 Commented on [#751](https://github.com/blitz-js/blitz/issues/751) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+3. 🎉 Merged PR [#8](https://github.com/Umayarz18/portfolio/pull/8) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
+4. 🎉 Merged PR [#10](https://github.com/Umayarz18/portfolio/pull/10) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
+5. 🎉 Merged PR [#9](https://github.com/Umayarz18/portfolio/pull/9) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
 <!--END_SECTION:activity-->
 
 </details>
