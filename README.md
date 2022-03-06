@@ -44,11 +44,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/Kira272921/vscode-themed-portfolio/issues/20) in [Kira272921/vscode-themed-portfolio](https://github.com/Kira272921/vscode-themed-portfolio)
-2. 🗣 Commented on [#751](https://github.com/blitz-js/blitz/issues/751) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
-3. 🎉 Merged PR [#8](https://github.com/Umayarz18/portfolio/pull/8) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
-4. 🎉 Merged PR [#10](https://github.com/Umayarz18/portfolio/pull/10) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
-5. 🎉 Merged PR [#9](https://github.com/Umayarz18/portfolio/pull/9) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
+1. 🗣 Commented on [#751](https://github.com/blitz-js/blitz/issues/751) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+2. 🎉 Merged PR [#16](https://github.com/Umayarz18/portfolio/pull/16) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
+3. 🎉 Merged PR [#13](https://github.com/Umayarz18/portfolio/pull/13) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
+4. 🎉 Merged PR [#18](https://github.com/Umayarz18/portfolio/pull/18) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
+5. 🗣 Commented on [#1863](https://github.com/sanity-io/sanity/issues/1863) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
 <!--END_SECTION:activity-->
 
 </details>
