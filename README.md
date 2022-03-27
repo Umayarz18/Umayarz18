@@ -44,11 +44,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17495](https://github.com/storybookjs/storybook/issues/17495) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 💪 Opened PR [#3235](https://github.com/blitz-js/blitz/pull/3235) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
-3. 🎉 Merged PR [#19](https://github.com/Umayarz18/portfolio/pull/19) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
-4. 🗣 Commented on [#751](https://github.com/blitz-js/blitz/issues/751) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
-5. 🎉 Merged PR [#16](https://github.com/Umayarz18/portfolio/pull/16) in [Umayarz18/portfolio](https://github.com/Umayarz18/portfolio)
+1. ❗️ Opened issue [#13](https://github.com/Umayarz18/Taekwondo-Knowledge-App/issues/13) in [Umayarz18/Taekwondo-Knowledge-App](https://github.com/Umayarz18/Taekwondo-Knowledge-App)
+2. ❗️ Opened issue [#12](https://github.com/Umayarz18/Taekwondo-Knowledge-App/issues/12) in [Umayarz18/Taekwondo-Knowledge-App](https://github.com/Umayarz18/Taekwondo-Knowledge-App)
+3. ❗️ Opened issue [#11](https://github.com/Umayarz18/Taekwondo-Knowledge-App/issues/11) in [Umayarz18/Taekwondo-Knowledge-App](https://github.com/Umayarz18/Taekwondo-Knowledge-App)
+4. ❗️ Opened issue [#10](https://github.com/Umayarz18/Taekwondo-Knowledge-App/issues/10) in [Umayarz18/Taekwondo-Knowledge-App](https://github.com/Umayarz18/Taekwondo-Knowledge-App)
+5. ❗️ Opened issue [#9](https://github.com/Umayarz18/Taekwondo-Knowledge-App/issues/9) in [Umayarz18/Taekwondo-Knowledge-App](https://github.com/Umayarz18/Taekwondo-Knowledge-App)
 <!--END_SECTION:activity-->
 
 </details>
