@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Storybook, Jamstack sites, Accessibility, Open Source, Design Systems, and Machine Learning.**
 
-- 👯 I’m looking to collaborate on [Coffeeclass.io](https://coffeeclass.io)
-
 - 👨‍💻 All of my projects are available at [https://roewynumayam.com](https://roewynumayam.com)
 
 - 📝 I regularly write articles on [https://roewynumayam.com](https://roewynumayam.com)
@@ -22,7 +20,7 @@
 
 - ⚡ Fun fact **I love teaching/practicing Taekwondo 🥋, spending time with family 👪, all things comic books 🤓, and exercising 🏋🏾**
 
-- 🥅 2022 Goals: Break into Developer Advocacy and help educate the tech community about Jamstack, design systems, and web accessibility!
+- 🥅 2022 Goals: Improve my knowledge and skills with design systems, and web accessibility!
 
 
 ## Connect with me:
