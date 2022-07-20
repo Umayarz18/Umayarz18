@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/roewynu" target="blank"><img src="https://img.shields.io/twitter/follow/roewynu?logo=twitter&style=for-the-badge" alt="roewynu" /></a> </p>
 
-- 🔭 I’m currently working on making Technical Content and Open Source Starters for every Developer
+- 🔭 I’m currently as a Design Technologist @ [Enlyte](https://enlyte.com)
 
-- 🌱 I’m currently learning **Storybook, Jamstack sites, Accessibility, Open Source, Design Systems, and Machine Learning.**
+- 🌱 I’m currently learning **Storybook, Headless CMS, Typescript, Accessibility, and  Design Systems.**
 
 - 👨‍💻 All of my projects are available at [https://roewynumayam.com](https://roewynumayam.com)
 
@@ -64,7 +64,5 @@
 ## Support:
 <p><a href="https://www.buymeacoffee.com/roewynumayam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roewynumayam" /></a></p>
 
-
-Last Edited on: 02/10/2022
 
 Made With: Rahul Jain's [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
