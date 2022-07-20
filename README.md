@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/roewynu" target="blank"><img src="https://img.shields.io/twitter/follow/roewynu?logo=twitter&style=for-the-badge" alt="roewynu" /></a> </p>
 
-- 🔭 I’m currently as a Design Technologist @ [Enlyte](https://enlyte.com)
+- 🔭 I’m currently working as a Design Technologist @[Enlyte](https://enlyte.com) on the Magnetic Design Systems Team.
 
 - 🌱 I’m currently learning **Storybook, Headless CMS, Typescript, Accessibility, and  Design Systems.**
 
