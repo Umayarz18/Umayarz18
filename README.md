@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I love teaching/practicing Taekwondo 🥋, spending time with family 👪, all things comic books 🤓, and exercising 🏋🏾**
 
-- 🥅 2022 Goals: Improve my knowledge and skills with design systems, and web accessibility!
+- 🥅 2023 Goals: Improve my knowledge to create amazing design system tooling, and web accessibility!
 
 
 ## Connect with me:
