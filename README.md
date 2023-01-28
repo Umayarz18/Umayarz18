@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umayarz18&label=Profile%20views&color=0e75b6&style=flat" alt="umayarz18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/roewynu" target="blank"><img src="https://img.shields.io/twitter/follow/roewynu?logo=twitter&style=for-the-badge" alt="roewynu" /></a> </p>
-
 - 🔭 I’m currently working as a Design Technologist @[Enlyte](https://enlyte.com) on the Magnetic Design Systems Team.
 
 - 🌱 I’m currently learning **Storybook, Headless CMS, Typescript, Accessibility, and  Design Systems.**
